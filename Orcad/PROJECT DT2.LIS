@@ -1,0 +1,65 @@
+AutoECO Report
+FILE-A: G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+FILE-B: G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding package LM555_2
+Adding package RESISTOR
+Adding package CAP_NP
+Adding package 4518_0
+Adding package CON_AT36_5
+Adding package 7447A_0
+Adding package CON1
+Adding component IC1
+Found footprint DIP.100/8/W.300/L.425 from PRT file for part LM555_2, comp IC1
+Adding component R8
+Found footprint SM/C_0805 from PRT file for part RESISTOR, comp R8
+Adding component C1
+Found footprint CPCYL1/D.200/LS.150/.031 from PRT file for part CAP_NP, comp C1
+Adding component R9
+Adding component C2
+Adding component IC2
+Found footprint DIP.100/16/W.300/L.825 from PRT file for part 4518_0, comp IC2
+Adding component R10
+Adding component R11
+Adding component LED1
+Found footprint SIP/TM/L1.000/10 from PRT file for part CON_AT36_5, comp LED1
+Adding component IC3
+Found footprint DIP.100/16/W.300/L.875 from PRT file for part 7447A_0, comp IC3
+Adding component J1
+Adding component R3
+Adding component R4
+Adding component R5
+Adding component R1
+Adding component R6
+Adding component J2
+Adding component R2
+Adding component R7
+Adding net N02881
+Adding net N02814
+Adding net N02948
+Adding net N02176
+Adding net N02325
+Adding net N06735
+Adding net N05500
+Adding net N05428
+Adding net N04792
+Adding net N05640
+Adding net N05286
+Adding net N05570
+Adding net N05710
+Adding net N01629
+Adding net N02027
+Adding net N07968
+Adding net N08040
+Adding net N08112
+Adding net N08184
+Adding net N08256
+Adding net N08328
+Adding net N08400
+Adding net N01602
+Adding net N01824
+Adding net GND
+Adding net VCC
+Deleting net DEFAULT
+*EOF*
+No errors found

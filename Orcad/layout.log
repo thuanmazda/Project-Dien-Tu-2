@@ -1,0 +1,1214 @@
+Tue Feb 24 07:58:24 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Tue Feb 24 07:58:24 Saved as file BACKUP1.MAX
+Tue Feb 24 07:58:24 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Tue Feb 24 07:58:25 UserDiv from Layout.INI for AutoECO: 60
+Tue Feb 24 07:58:25 Loaded file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON100T.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BGA.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\CLCC.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DCON050T.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DCON085T.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIMM050F.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIMM050T.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIN.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100B.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT_HD.LLB
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ECON100T.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\FBUS.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ISA.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\JUMPER.LLB
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LAYOUT.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LCON100T.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PC104.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCI.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCON100T.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCON156T.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PGA.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PLCC.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUAD.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUADB.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\RELAY.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\RF.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SBUS.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050F.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050T.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM100F.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM100T.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIP.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOG.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOJ.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\STIFF.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TELE.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_AXIAL.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CAP_P.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CYLND.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DIODE.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DISC.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_RAD.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TO.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TRAINING.LLB
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\VRES.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\WCON100T.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\XT.llb
+Tue Feb 24 07:58:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ZIGZAG.llb
+Tue Feb 24 07:58:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:58:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:58:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Tue Feb 24 07:58:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Tue Feb 24 07:58:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Tue Feb 24 07:58:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Tue Feb 24 07:58:51 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCON100T.llb
+Tue Feb 24 07:58:51 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LCON100T.llb
+Tue Feb 24 07:58:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCI.llb
+Tue Feb 24 07:58:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ECON100T.llb
+Tue Feb 24 07:58:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ECON100T.llb
+Tue Feb 24 07:58:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\FBUS.llb
+Tue Feb 24 07:58:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\JUMPER.LLB
+Tue Feb 24 07:58:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LAYOUT.llb
+Tue Feb 24 07:58:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Tue Feb 24 07:58:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Tue Feb 24 07:59:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\CLCC.llb
+Tue Feb 24 07:59:05 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_AXIAL.llb
+Tue Feb 24 07:59:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CAP_P.llb
+Tue Feb 24 07:59:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CYLND.llb
+Tue Feb 24 07:59:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DIODE.llb
+Tue Feb 24 07:59:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_RAD.llb
+Tue Feb 24 07:59:11 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TO.llb
+Tue Feb 24 07:59:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TRAINING.LLB
+Tue Feb 24 07:59:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TO.llb
+Tue Feb 24 07:59:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\WCON100T.llb
+Tue Feb 24 07:59:17 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TRAINING.LLB
+Tue Feb 24 07:59:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\XT.llb
+Tue Feb 24 07:59:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\VRES.llb
+Tue Feb 24 07:59:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:23 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:24 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\WCON100T.llb
+Tue Feb 24 07:59:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\VRES.llb
+Tue Feb 24 07:59:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CAP_P.llb
+Tue Feb 24 07:59:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CYLND.llb
+Tue Feb 24 07:59:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:37 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DIODE.llb
+Tue Feb 24 07:59:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DISC.llb
+Tue Feb 24 07:59:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\WCON100T.llb
+Tue Feb 24 07:59:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\XT.llb
+Tue Feb 24 07:59:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\XT.llb
+Tue Feb 24 07:59:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ZIGZAG.llb
+Tue Feb 24 07:59:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCON156T.llb
+Tue Feb 24 07:59:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PLCC.llb
+Tue Feb 24 07:59:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PGA.llb
+Tue Feb 24 07:59:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:49 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PGA.llb
+Tue Feb 24 07:59:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PLCC.llb
+Tue Feb 24 07:59:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUAD.llb
+Tue Feb 24 07:59:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LAYOUT.llb
+Tue Feb 24 07:59:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\JUMPER.LLB
+Tue Feb 24 07:59:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 07:59:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT_HD.LLB
+Tue Feb 24 08:00:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT.llb
+Tue Feb 24 08:00:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Tue Feb 24 08:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:00:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:00:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:00:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:00:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:00:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:00:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:00:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:00:23 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:00:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:00:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:00:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:00:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:02:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:02:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:02:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:02:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:02:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:02:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:02:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:02:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:02:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:02:49 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:02:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:02:51 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:02:51 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:02:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:02:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:02:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:02:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:02:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:11 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Tue Feb 24 08:03:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUADB.llb
+Tue Feb 24 08:03:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM100F.llb
+Tue Feb 24 08:03:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\STIFF.llb
+Tue Feb 24 08:03:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DISC.llb
+Tue Feb 24 08:03:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CAP_P.llb
+Tue Feb 24 08:03:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:37 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:03:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:04:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:04:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:04:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:04:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:04:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:04:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:04:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:04:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:04:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:04:11 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:04:11 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:06:37 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:06:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:06:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:06:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:06:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:06:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:06:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:06:51 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:06:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:06:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:06:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:06:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:06:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:06:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:06:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:06:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:06:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:06:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:07:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:07:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:07:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:07:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CAP_P.llb
+Tue Feb 24 08:07:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:07:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:07:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIMM050T.llb
+Tue Feb 24 08:07:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Tue Feb 24 08:07:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100B.llb
+Tue Feb 24 08:07:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Tue Feb 24 08:07:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:07:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:07:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:07:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:08:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:08:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:08:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:08:05 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:08:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:08:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:08:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:08:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:08:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:08:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:08:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Tue Feb 24 08:08:23 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:08:23 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:08:30 Saved as file BACKUP1.MAX
+Tue Feb 24 08:10:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT.llb
+Tue Feb 24 08:10:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100B.llb
+Tue Feb 24 08:10:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:17 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Tue Feb 24 08:10:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT.llb
+Tue Feb 24 08:10:23 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Tue Feb 24 08:10:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:37 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:37 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100B.llb
+Tue Feb 24 08:10:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:49 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:49 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:10:49 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:12:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:12:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:12:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:12:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:12:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:12:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100B.llb
+Tue Feb 24 08:12:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Tue Feb 24 08:12:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:12:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:12:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:12:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:12:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:12:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:12:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:12:49 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:12:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:12:51 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:12:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:12:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:12:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:15:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:15:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:15:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:15:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:15:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:15:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Tue Feb 24 08:15:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:15:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:16:05 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Tue Feb 24 08:16:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\CLCC.llb
+Tue Feb 24 08:16:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DCON085T.llb
+Tue Feb 24 08:16:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:16:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:16:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIMM050F.llb
+Tue Feb 24 08:16:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIMM050T.llb
+Tue Feb 24 08:16:11 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100B.llb
+Tue Feb 24 08:16:11 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Tue Feb 24 08:16:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT.llb
+Tue Feb 24 08:16:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:16:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Tue Feb 24 08:16:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:16:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:16:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100B.llb
+Tue Feb 24 08:18:05 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\FBUS.llb
+Tue Feb 24 08:18:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\JUMPER.LLB
+Tue Feb 24 08:18:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:18:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:18:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:18:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:18:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:18:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:18:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SBUS.llb
+Tue Feb 24 08:18:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOJ.llb
+Tue Feb 24 08:18:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIP.llb
+Tue Feb 24 08:18:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:18:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:18:17 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:18:17 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:18:17 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:18:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:18:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:18:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:18:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:18:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIP.llb
+Tue Feb 24 08:18:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:18:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:18:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BGA.llb
+Tue Feb 24 08:19:00 Saved as file BACKUP1.MAX
+Tue Feb 24 08:19:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Tue Feb 24 08:19:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:19:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:19:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:19:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:19:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:19:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:19:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:19:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:19:11 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:19:11 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:19:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:19:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Tue Feb 24 08:19:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:19:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:20:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\VRES.llb
+Tue Feb 24 08:20:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:20:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:20:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:20:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:20:05 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:20:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DIODE.llb
+Tue Feb 24 08:20:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_AXIAL.llb
+Tue Feb 24 08:20:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:20:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:20:11 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:20:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:20:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIP.llb
+Tue Feb 24 08:22:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOG.llb
+Tue Feb 24 08:22:17 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:49 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:22:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:23:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:23:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:23:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:24:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:24:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:24:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:24:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:24:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:24:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:24:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:24:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:24:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:24:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:28:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:29:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:29:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:29:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:29:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:29:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Feb 24 08:29:30 Saved as file BACKUP1.MAX
+Tue Feb 24 08:39:31 Saved as file BACKUP1.MAX
+Tue Feb 24 08:50:01 Saved as file BACKUP1.MAX
+Tue Feb 24 08:52:24 Loaded file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Tue Feb 24 08:52:24 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Tue Feb 24 08:52:24 Loaded file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 20:20:25 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 20:20:25 Saved as file BACKUP1.MAX
+Thu Feb 26 20:20:25 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 20:20:25 UserDiv from Layout.INI for AutoECO: 60
+Thu Feb 26 20:20:25 Loaded file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON100T.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BGA.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\CLCC.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DCON050T.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DCON085T.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIMM050F.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIMM050T.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIN.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100B.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT_HD.LLB
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ECON100T.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\FBUS.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ISA.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\JUMPER.LLB
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LAYOUT.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LCON100T.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PC104.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCI.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCON100T.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCON156T.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PGA.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PLCC.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUAD.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUADB.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\RELAY.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\RF.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SBUS.llb
+Thu Feb 26 20:20:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050F.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050T.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM100F.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM100T.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIP.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOG.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOJ.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\STIFF.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TELE.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_AXIAL.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CAP_P.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CYLND.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DIODE.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DISC.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_RAD.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TO.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TRAINING.LLB
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\VRES.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\WCON100T.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\XT.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ZIGZAG.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CAP_P.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIP.llb
+Thu Feb 26 20:20:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Thu Feb 26 20:20:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:20:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:20:42 Loaded file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 20:20:42 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 20:20:42 Loaded file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 20:22:07 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 20:22:07 Saved as file BACKUP1.MAX
+Thu Feb 26 20:22:07 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 20:22:08 UserDiv from Layout.INI for AutoECO: 60
+Thu Feb 26 20:22:08 Loaded file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON100T.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BGA.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\CLCC.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DCON050T.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DCON085T.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIMM050F.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIMM050T.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIN.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100B.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT_HD.LLB
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ECON100T.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\FBUS.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ISA.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\JUMPER.LLB
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LAYOUT.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LCON100T.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PC104.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCI.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCON100T.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCON156T.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PGA.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PLCC.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUAD.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUADB.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\RELAY.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\RF.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SBUS.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050F.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050T.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM100F.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM100T.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIP.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOG.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOJ.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\STIFF.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TELE.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_AXIAL.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CAP_P.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CYLND.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DIODE.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DISC.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_RAD.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TO.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TRAINING.LLB
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\VRES.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\WCON100T.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\XT.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ZIGZAG.llb
+Thu Feb 26 20:22:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Thu Feb 26 20:22:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:22:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:22:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CAP_P.llb
+Thu Feb 26 20:22:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TELE.llb
+Thu Feb 26 20:22:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CAP_P.llb
+Thu Feb 26 20:22:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DIODE.llb
+Thu Feb 26 20:22:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\WCON100T.llb
+Thu Feb 26 20:22:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\XT.llb
+Thu Feb 26 20:22:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\WCON100T.llb
+Thu Feb 26 20:22:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\VRES.llb
+Thu Feb 26 20:22:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TRAINING.LLB
+Thu Feb 26 20:22:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TO.llb
+Thu Feb 26 20:22:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CYLND.llb
+Thu Feb 26 20:22:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_AXIAL.llb
+Thu Feb 26 20:22:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TELE.llb
+Thu Feb 26 20:22:23 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\STIFF.llb
+Thu Feb 26 20:22:24 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOG.llb
+Thu Feb 26 20:22:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Thu Feb 26 20:22:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIP.llb
+Thu Feb 26 20:22:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:22:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Thu Feb 26 20:22:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:22:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:22:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:22:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:22:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:22:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:22:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050T.llb
+Thu Feb 26 20:22:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SBUS.llb
+Thu Feb 26 20:23:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\JUMPER.LLB
+Thu Feb 26 20:23:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ISA.llb
+Thu Feb 26 20:23:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\FBUS.llb
+Thu Feb 26 20:23:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUADB.llb
+Thu Feb 26 20:23:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUAD.llb
+Thu Feb 26 20:23:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050T.llb
+Thu Feb 26 20:23:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM100T.llb
+Thu Feb 26 20:23:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050T.llb
+Thu Feb 26 20:23:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050F.llb
+Thu Feb 26 20:23:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:23:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:23:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIP.llb
+Thu Feb 26 20:23:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:23:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:23:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:23:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:23:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOG.llb
+Thu Feb 26 20:23:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Thu Feb 26 20:23:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:23:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:23:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:23:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:23:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:24:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOJ.llb
+Thu Feb 26 20:24:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Thu Feb 26 20:24:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIP.llb
+Thu Feb 26 20:24:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Thu Feb 26 20:24:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIP.llb
+Thu Feb 26 20:24:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:24:37 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:24:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Thu Feb 26 20:24:51 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Thu Feb 26 20:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CAP_P.llb
+Thu Feb 26 20:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Thu Feb 26 20:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIP.llb
+Thu Feb 26 20:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Thu Feb 26 20:25:00 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 20:25:00 Loaded file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 20:30:10 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:30:10 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:30:10 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:30:10 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:19 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:19 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:19 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:19 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:22 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:24 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:24 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:25 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:26 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:26 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:26 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:27 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:27 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:29 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:30 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:30 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:31 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:31 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:32 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:32 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:33 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 20:32:54 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 20:32:55 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 20:52:01 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\LED7.LLB
+Thu Feb 26 20:52:01 Loaded file G:\HOC TTDT1\BAITT\PROJECT DT2\LED7.LLB
+Thu Feb 26 20:52:01 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\LED7.LLB
+Thu Feb 26 20:52:03 Loaded file G:\HOC TTDT1\BAITT\PROJECT DT2\LED7.LLB
+Thu Feb 26 20:52:03 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\LED7.LLB
+Thu Feb 26 20:52:06 Loaded file G:\HOC TTDT1\BAITT\PROJECT DT2\LED7.LLB
+Thu Feb 26 20:52:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:52:19 Loaded file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 20:52:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:52:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:52:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:52:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 20:52:27 Loaded file G:\HOC TTDT1\BAITT\PROJECT DT2\LED7.LLB
+Thu Feb 26 20:52:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:02:14 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 21:03:54 Saved as file BACKUP1.MAX
+Thu Feb 26 21:08:48 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 21:08:49 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 21:10:32 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 21:10:32 Saved as file BACKUP1.MAX
+Thu Feb 26 21:10:32 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 21:10:32 UserDiv from Layout.INI for AutoECO: 60
+Thu Feb 26 21:10:32 Loaded file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 21:10:32 Loaded file G:\HOC TTDT1\BAITT\PROJECT DT2\LED7.LLB
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON100T.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BGA.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\CLCC.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DCON050T.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DCON085T.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIMM050F.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIMM050T.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIN.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100B.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT_HD.LLB
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ECON100T.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\FBUS.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ISA.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\JUMPER.LLB
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LAYOUT.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LCON100T.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PC104.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCI.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCON100T.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCON156T.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PGA.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PLCC.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUAD.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUADB.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\RELAY.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\RF.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SBUS.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050F.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050T.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM100F.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM100T.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIP.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOG.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOJ.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\STIFF.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TELE.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_AXIAL.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CAP_P.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CYLND.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DIODE.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DISC.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_RAD.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TO.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TRAINING.LLB
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\VRES.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\WCON100T.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\XT.llb
+Thu Feb 26 21:10:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ZIGZAG.llb
+Thu Feb 26 21:10:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Thu Feb 26 21:10:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Thu Feb 26 21:10:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CAP_P.llb
+Thu Feb 26 21:10:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Thu Feb 26 21:10:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIP.llb
+Thu Feb 26 21:10:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Thu Feb 26 21:10:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:10:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:10:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LAYOUT.llb
+Thu Feb 26 21:10:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\JUMPER.LLB
+Thu Feb 26 21:10:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LAYOUT.llb
+Thu Feb 26 21:10:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\JUMPER.LLB
+Thu Feb 26 21:11:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:05 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PLCC.llb
+Thu Feb 26 21:11:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PGA.llb
+Thu Feb 26 21:11:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\STIFF.llb
+Thu Feb 26 21:11:23 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:24 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\STIFF.llb
+Thu Feb 26 21:11:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_AXIAL.llb
+Thu Feb 26 21:11:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DISC.llb
+Thu Feb 26 21:11:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\XT.llb
+Thu Feb 26 21:11:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\RF.llb
+Thu Feb 26 21:11:37 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\RELAY.llb
+Thu Feb 26 21:11:37 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\RF.llb
+Thu Feb 26 21:11:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SBUS.llb
+Thu Feb 26 21:11:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCI.llb
+Thu Feb 26 21:11:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LAYOUT.llb
+Thu Feb 26 21:11:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:49 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:49 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:51 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:51 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Feb 26 21:11:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LAYOUT.llb
+Thu Feb 26 21:11:57 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 21:11:57 Loaded file G:\HOC TTDT1\BAITT\PROJECT DT2\PROJECT DT2.MAX
+Thu Feb 26 21:13:38 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 21:13:38 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 21:13:38 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 21:13:38 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 21:13:40 Loaded file G:\HOC TTDT1\BAITT\PROJECT DT2\LED7.LLB
+Thu Feb 26 21:13:40 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Thu Feb 26 21:21:06 Saved as file BACKUP1.MAX
+Thu Feb 26 21:31:36 Saved as file BACKUP1.MAX
+Thu Feb 26 21:33:26 Saved as file BACKUP1.MAX
+Thu Feb 26 21:33:26 Routed 2 connections in 1 seconds.
+Thu Feb 26 21:33:26 Total is now 2 out of 41 (4%).
+Thu Feb 26 21:33:26 Saved as file SWEEP1.MAX
+Thu Feb 26 21:33:28 Saved as file BACKUP1.MAX
+Thu Feb 26 21:33:28 Routed 39 connections in 2 seconds.
+Thu Feb 26 21:33:28 Total is now 41 out of 41 (100%).
+Thu Feb 26 21:33:28 Saved as file SWEEP2.MAX
+Thu Feb 26 21:33:30 No new connections routed.
+Thu Feb 26 21:33:30 Total is now 41 out of 41 (100%).
+Thu Feb 26 21:33:30 Saved as file SWEEP3.MAX
+Thu Feb 26 21:33:32 No new connections routed.
+Thu Feb 26 21:33:32 Total is now 41 out of 41 (100%).
+Thu Feb 26 21:33:32 Saved as file SWEEP4.MAX
+Thu Feb 26 21:33:34 No new connections routed.
+Thu Feb 26 21:33:34 Total is now 41 out of 41 (100%).
+Thu Feb 26 21:33:34 Saved as file SWEEP5.MAX
+Thu Feb 26 21:39:18 Saved as file BACKUP1.MAX
+Thu Feb 26 21:39:18 Routed 2 connections in 1 seconds.
+Thu Feb 26 21:39:18 Total is now 2 out of 41 (4%).
+Thu Feb 26 21:39:18 Saved as file SWEEP1.MAX
+Thu Feb 26 21:39:22 Saved as file BACKUP1.MAX
+Thu Feb 26 21:39:22 Routed 24 connections in 4 seconds.
+Thu Feb 26 21:39:22 Total is now 26 out of 41 (63%).
+Thu Feb 26 21:39:22 Saved as file SWEEP2.MAX
+Thu Feb 26 21:39:55 Routed 3 connections in 32 seconds.
+Thu Feb 26 21:39:55 Total is now 29 out of 41 (70%).
+Thu Feb 26 21:39:55 Saved as file SWEEP3.MAX
+Thu Feb 26 21:40:36 Routed 1 connections in 41 seconds.
+Thu Feb 26 21:40:36 Total is now 29 out of 41 (70%).
+Thu Feb 26 21:40:36 Saved as file SWEEP4.MAX
+Thu Feb 26 21:41:12 Routed 3 connections in 36 seconds.
+Thu Feb 26 21:41:12 Total is now 32 out of 41 (78%).
+Thu Feb 26 21:41:12 Saved as file SWEEP5.MAX
+Thu Feb 26 21:43:00 Saved as file BACKUP1.MAX
+Thu Feb 26 21:43:00 Routed 2 connections in 3 seconds.
+Thu Feb 26 21:43:00 Total is now 2 out of 41 (4%).
+Thu Feb 26 21:43:00 Saved as file SWEEP1.MAX
+Thu Feb 26 21:43:08 Saved as file BACKUP1.MAX
+Thu Feb 26 21:43:08 Routed 29 connections in 8 seconds.
+Thu Feb 26 21:43:08 Total is now 31 out of 41 (75%).
+Thu Feb 26 21:43:08 Saved as file SWEEP2.MAX
+Thu Feb 26 21:43:37 Saved as file BACKUP1.MAX
+Thu Feb 26 21:43:55 No new connections routed.
+Thu Feb 26 21:43:55 Total is now 31 out of 41 (75%).
+Thu Feb 26 21:43:55 Saved as file SWEEP3.MAX
+Thu Feb 26 21:45:11 No new connections routed.
+Thu Feb 26 21:45:11 Total is now 31 out of 41 (75%).
+Thu Feb 26 21:45:11 Saved as file SWEEP4.MAX
+Thu Feb 26 21:46:07 No new connections routed.
+Thu Feb 26 21:46:07 Total is now 31 out of 41 (75%).
+Thu Feb 26 21:46:07 Saved as file SWEEP5.MAX
+Thu Feb 26 21:53:59 Saved as file BACKUP1.MAX
+Thu Feb 26 21:53:59 Routed 4 connections in 2 seconds.
+Thu Feb 26 21:53:59 Total is now 4 out of 41 (9%).
+Thu Feb 26 21:53:59 Saved as file SWEEP1.MAX
+Thu Feb 26 21:54:05 Saved as file BACKUP1.MAX
+Thu Feb 26 21:54:05 Routed 31 connections in 5 seconds.
+Thu Feb 26 21:54:05 Total is now 35 out of 41 (85%).
+Thu Feb 26 21:54:05 Saved as file SWEEP2.MAX
+Thu Feb 26 21:54:07 Saved as file BACKUP1.MAX
+Thu Feb 26 21:54:27 No new connections routed.
+Thu Feb 26 21:54:27 Total is now 35 out of 41 (85%).
+Thu Feb 26 21:54:27 Saved as file SWEEP3.MAX
+Thu Feb 26 21:55:07 No new connections routed.
+Thu Feb 26 21:55:07 Total is now 35 out of 41 (85%).
+Thu Feb 26 21:55:07 Saved as file SWEEP4.MAX
+Thu Feb 26 21:55:40 No new connections routed.
+Thu Feb 26 21:55:40 Total is now 35 out of 41 (85%).
+Thu Feb 26 21:55:40 Saved as file SWEEP5.MAX
+Thu Feb 26 22:01:11 Saved as file BACKUP1.MAX
+Thu Feb 26 22:01:11 Routed 4 connections in 2 seconds.
+Thu Feb 26 22:01:11 Total is now 4 out of 41 (9%).
+Thu Feb 26 22:01:11 Saved as file SWEEP1.MAX
+Thu Feb 26 22:01:14 Saved as file BACKUP1.MAX
+Thu Feb 26 22:01:14 Routed 33 connections in 3 seconds.
+Thu Feb 26 22:01:14 Total is now 37 out of 41 (90%).
+Thu Feb 26 22:01:14 Saved as file SWEEP2.MAX
+Thu Feb 26 22:01:25 No new connections routed.
+Thu Feb 26 22:01:25 Total is now 37 out of 41 (90%).
+Thu Feb 26 22:01:25 Saved as file SWEEP3.MAX
+Thu Feb 26 22:01:39 No new connections routed.
+Thu Feb 26 22:01:39 Total is now 37 out of 41 (90%).
+Thu Feb 26 22:01:39 Saved as file SWEEP4.MAX
+Thu Feb 26 22:01:54 No new connections routed.
+Thu Feb 26 22:01:54 Total is now 37 out of 41 (90%).
+Thu Feb 26 22:01:54 Saved as file SWEEP5.MAX
+Thu Feb 26 22:04:36 Saved as file BACKUP1.MAX
+Fri Feb 27 08:55:08 Saved as file BACKUP1.MAX
+Fri Feb 27 08:59:25 Saved as file BACKUP1.MAX
+Fri Feb 27 08:59:25 Routed 3 connections in 1 seconds.
+Fri Feb 27 08:59:25 Total is now 3 out of 41 (7%).
+Fri Feb 27 08:59:25 Saved as file SWEEP1.MAX
+Fri Feb 27 08:59:27 Saved as file BACKUP1.MAX
+Fri Feb 27 08:59:27 Routed 14 connections in 2 seconds.
+Fri Feb 27 08:59:27 Total is now 17 out of 41 (41%).
+Fri Feb 27 08:59:27 Saved as file SWEEP2.MAX
+Fri Feb 27 09:00:12 No new connections routed.
+Fri Feb 27 09:00:12 Total is now 17 out of 41 (41%).
+Fri Feb 27 09:00:12 Saved as file SWEEP3.MAX
+Fri Feb 27 09:00:58 No new connections routed.
+Fri Feb 27 09:00:58 Total is now 17 out of 41 (41%).
+Fri Feb 27 09:00:58 Saved as file SWEEP4.MAX
+Fri Feb 27 09:01:43 No new connections routed.
+Fri Feb 27 09:01:43 Total is now 17 out of 41 (41%).
+Fri Feb 27 09:01:43 Saved as file SWEEP5.MAX
+Fri Feb 27 09:05:35 Saved as file BACKUP1.MAX
+Fri Feb 27 09:05:35 Routed 7 connections in 1 seconds.
+Fri Feb 27 09:05:35 Total is now 7 out of 41 (17%).
+Fri Feb 27 09:05:35 Saved as file SWEEP1.MAX
+Fri Feb 27 09:05:38 Saved as file BACKUP1.MAX
+Fri Feb 27 09:05:38 Routed 34 connections in 2 seconds.
+Fri Feb 27 09:05:38 Total is now 41 out of 41 (100%).
+Fri Feb 27 09:05:38 Saved as file SWEEP2.MAX
+Fri Feb 27 09:05:40 No new connections routed.
+Fri Feb 27 09:05:40 Total is now 41 out of 41 (100%).
+Fri Feb 27 09:05:40 Saved as file SWEEP3.MAX
+Fri Feb 27 09:05:42 No new connections routed.
+Fri Feb 27 09:05:42 Total is now 41 out of 41 (100%).
+Fri Feb 27 09:05:42 Saved as file SWEEP4.MAX
+Fri Feb 27 09:05:43 No new connections routed.
+Fri Feb 27 09:05:43 Total is now 41 out of 41 (100%).
+Fri Feb 27 09:05:43 Saved as file SWEEP5.MAX
+Fri Feb 27 09:56:02 Loaded file G:\HOC TTDT1\BAITT\PROJECT DT2\BACKUP5.MAX
+Fri Feb 27 09:58:51 Saved as file BACKUP1.MAX
+Fri Feb 27 09:58:51 Routed 3 connections in 1 seconds.
+Fri Feb 27 09:58:51 Total is now 3 out of 41 (7%).
+Fri Feb 27 09:58:51 Saved as file SWEEP1.MAX
+Fri Feb 27 09:58:53 Saved as file BACKUP1.MAX
+Fri Feb 27 09:58:53 Routed 14 connections in 2 seconds.
+Fri Feb 27 09:58:53 Total is now 17 out of 41 (41%).
+Fri Feb 27 09:58:53 Saved as file SWEEP2.MAX
+Fri Feb 27 09:59:38 No new connections routed.
+Fri Feb 27 09:59:38 Total is now 17 out of 41 (41%).
+Fri Feb 27 09:59:38 Saved as file SWEEP3.MAX
+Fri Feb 27 10:00:24 No new connections routed.
+Fri Feb 27 10:00:24 Total is now 17 out of 41 (41%).
+Fri Feb 27 10:00:24 Saved as file SWEEP4.MAX
+Fri Feb 27 10:01:22 No new connections routed.
+Fri Feb 27 10:01:22 Total is now 17 out of 41 (41%).
+Fri Feb 27 10:01:22 Saved as file SWEEP5.MAX
+Fri Feb 27 10:05:58 Saved as file BACKUP1.MAX
+Fri Feb 27 10:10:08 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\BACKUP5.MAX
+Fri Feb 27 19:37:11 Saved as file BACKUP1.MAX
+Fri Feb 27 19:37:12 Routed 4 connections in 1 seconds.
+Fri Feb 27 19:37:12 Total is now 4 out of 41 (9%).
+Fri Feb 27 19:37:12 Saved as file SWEEP1.MAX
+Fri Feb 27 19:37:16 Saved as file BACKUP1.MAX
+Fri Feb 27 19:37:16 Routed 28 connections in 3 seconds.
+Fri Feb 27 19:37:16 Total is now 32 out of 41 (78%).
+Fri Feb 27 19:37:16 Saved as file SWEEP2.MAX
+Fri Feb 27 19:37:36 Routed 1 connections in 20 seconds.
+Fri Feb 27 19:37:36 Total is now 33 out of 41 (80%).
+Fri Feb 27 19:37:36 Saved as file SWEEP3.MAX
+Fri Feb 27 19:38:00 No new connections routed.
+Fri Feb 27 19:38:00 Total is now 33 out of 41 (80%).
+Fri Feb 27 19:38:00 Saved as file SWEEP4.MAX
+Fri Feb 27 19:38:30 No new connections routed.
+Fri Feb 27 19:38:30 Total is now 33 out of 41 (80%).
+Fri Feb 27 19:38:30 Saved as file SWEEP5.MAX
+Fri Feb 27 19:41:16 Saved as file BACKUP1.MAX
+Fri Feb 27 19:41:47 Saved as file BACKUP1.MAX
+Fri Feb 27 19:41:47 Routed 4 connections in 1 seconds.
+Fri Feb 27 19:41:47 Total is now 4 out of 41 (9%).
+Fri Feb 27 19:41:47 Saved as file SWEEP1.MAX
+Fri Feb 27 19:41:51 Saved as file BACKUP1.MAX
+Fri Feb 27 19:41:51 Routed 25 connections in 4 seconds.
+Fri Feb 27 19:41:51 Total is now 29 out of 41 (70%).
+Fri Feb 27 19:41:51 Saved as file SWEEP2.MAX
+Fri Feb 27 19:42:17 Routed 1 connections in 26 seconds.
+Fri Feb 27 19:42:17 Total is now 30 out of 41 (73%).
+Fri Feb 27 19:42:17 Saved as file SWEEP3.MAX
+Fri Feb 27 19:42:51 No new connections routed.
+Fri Feb 27 19:42:51 Total is now 30 out of 41 (73%).
+Fri Feb 27 19:42:51 Saved as file SWEEP4.MAX
+Fri Feb 27 19:43:26 Routed 2 connections in 35 seconds.
+Fri Feb 27 19:43:26 Total is now 31 out of 41 (75%).
+Fri Feb 27 19:43:26 Saved as file SWEEP5.MAX
+Fri Feb 27 19:51:46 Saved as file BACKUP1.MAX
+Fri Feb 27 19:53:55 Saved as file BACKUP1.MAX
+Fri Feb 27 19:53:55 Routed 1 connections in 1 seconds.
+Fri Feb 27 19:53:55 Total is now 1 out of 44 (2%).
+Fri Feb 27 19:53:55 Saved as file SWEEP1.MAX
+Fri Feb 27 19:53:59 Saved as file BACKUP1.MAX
+Fri Feb 27 19:53:59 Routed 33 connections in 4 seconds.
+Fri Feb 27 19:53:59 Total is now 34 out of 44 (77%).
+Fri Feb 27 19:53:59 Saved as file SWEEP2.MAX
+Fri Feb 27 19:54:22 Routed 2 connections in 22 seconds.
+Fri Feb 27 19:54:22 Total is now 36 out of 44 (81%).
+Fri Feb 27 19:54:22 Saved as file SWEEP3.MAX
+Fri Feb 27 19:54:54 No new connections routed.
+Fri Feb 27 19:54:54 Total is now 36 out of 44 (81%).
+Fri Feb 27 19:54:54 Saved as file SWEEP4.MAX
+Fri Feb 27 19:55:31 No new connections routed.
+Fri Feb 27 19:55:31 Total is now 36 out of 44 (81%).
+Fri Feb 27 19:55:31 Saved as file SWEEP5.MAX
+Fri Feb 27 19:58:52 Saved as file BACKUP1.MAX
+Fri Feb 27 19:58:52 Routed 2 connections in 1 seconds.
+Fri Feb 27 19:58:52 Total is now 2 out of 44 (4%).
+Fri Feb 27 19:58:52 Saved as file SWEEP1.MAX
+Fri Feb 27 19:58:56 Saved as file BACKUP1.MAX
+Fri Feb 27 19:58:56 Routed 30 connections in 4 seconds.
+Fri Feb 27 19:58:56 Total is now 32 out of 44 (72%).
+Fri Feb 27 19:58:56 Saved as file SWEEP2.MAX
+Fri Feb 27 19:59:27 Routed 1 connections in 31 seconds.
+Fri Feb 27 19:59:27 Total is now 33 out of 44 (75%).
+Fri Feb 27 19:59:27 Saved as file SWEEP3.MAX
+Fri Feb 27 20:00:18 No new connections routed.
+Fri Feb 27 20:00:18 Total is now 33 out of 44 (75%).
+Fri Feb 27 20:00:18 Saved as file SWEEP4.MAX
+Fri Feb 27 20:01:12 No new connections routed.
+Fri Feb 27 20:01:12 Total is now 33 out of 44 (75%).
+Fri Feb 27 20:01:12 Saved as file SWEEP5.MAX
+Fri Feb 27 20:01:46 Saved as file BACKUP1.MAX
+Fri Feb 27 20:03:01 Saved as file BACKUP1.MAX
+Fri Feb 27 20:03:01 Routed 3 connections in 1 seconds.
+Fri Feb 27 20:03:01 Total is now 3 out of 44 (6%).
+Fri Feb 27 20:03:01 Saved as file SWEEP1.MAX
+Fri Feb 27 20:03:05 Saved as file BACKUP1.MAX
+Fri Feb 27 20:03:05 Routed 31 connections in 3 seconds.
+Fri Feb 27 20:03:05 Total is now 34 out of 44 (77%).
+Fri Feb 27 20:03:05 Saved as file SWEEP2.MAX
+Fri Feb 27 20:03:34 No new connections routed.
+Fri Feb 27 20:03:34 Total is now 34 out of 44 (77%).
+Fri Feb 27 20:03:34 Saved as file SWEEP3.MAX
+Fri Feb 27 20:04:09 No new connections routed.
+Fri Feb 27 20:04:09 Total is now 34 out of 44 (77%).
+Fri Feb 27 20:04:09 Saved as file SWEEP4.MAX
+Fri Feb 27 20:04:40 Routed 1 connections in 31 seconds.
+Fri Feb 27 20:04:40 Total is now 35 out of 44 (79%).
+Fri Feb 27 20:04:40 Saved as file SWEEP5.MAX
+Fri Feb 27 20:10:51 Saved as file BACKUP1.MAX
+Fri Feb 27 20:10:51 Routed 2 connections in 1 seconds.
+Fri Feb 27 20:10:51 Total is now 2 out of 44 (4%).
+Fri Feb 27 20:10:51 Saved as file SWEEP1.MAX
+Fri Feb 27 20:10:55 Saved as file BACKUP1.MAX
+Fri Feb 27 20:10:55 Routed 32 connections in 4 seconds.
+Fri Feb 27 20:10:55 Total is now 34 out of 44 (77%).
+Fri Feb 27 20:10:55 Saved as file SWEEP2.MAX
+Fri Feb 27 20:11:17 Routed 3 connections in 21 seconds.
+Fri Feb 27 20:11:17 Total is now 37 out of 44 (84%).
+Fri Feb 27 20:11:17 Saved as file SWEEP3.MAX
+Fri Feb 27 20:11:47 No new connections routed.
+Fri Feb 27 20:11:47 Total is now 37 out of 44 (84%).
+Fri Feb 27 20:11:47 Saved as file SWEEP4.MAX
+Fri Feb 27 20:12:16 Saved as file BACKUP1.MAX
+Fri Feb 27 20:12:18 No new connections routed.
+Fri Feb 27 20:12:18 Total is now 37 out of 44 (84%).
+Fri Feb 27 20:12:18 Saved as file SWEEP5.MAX
+Fri Feb 27 20:18:58 Saved as file BACKUP1.MAX
+Fri Feb 27 20:18:58 Routed 2 connections in 2 seconds.
+Fri Feb 27 20:18:58 Total is now 2 out of 44 (4%).
+Fri Feb 27 20:18:58 Saved as file SWEEP1.MAX
+Fri Feb 27 20:19:04 Saved as file BACKUP1.MAX
+Fri Feb 27 20:19:04 Routed 30 connections in 5 seconds.
+Fri Feb 27 20:19:04 Total is now 32 out of 44 (72%).
+Fri Feb 27 20:19:04 Saved as file SWEEP2.MAX
+Fri Feb 27 20:19:37 Routed 2 connections in 33 seconds.
+Fri Feb 27 20:19:37 Total is now 34 out of 44 (77%).
+Fri Feb 27 20:19:37 Saved as file SWEEP3.MAX
+Fri Feb 27 20:20:09 Routed 1 connections in 31 seconds.
+Fri Feb 27 20:20:09 Total is now 35 out of 44 (79%).
+Fri Feb 27 20:20:09 Saved as file SWEEP4.MAX
+Fri Feb 27 20:20:47 No new connections routed.
+Fri Feb 27 20:20:47 Total is now 35 out of 44 (79%).
+Fri Feb 27 20:20:47 Saved as file SWEEP5.MAX
+Fri Feb 27 20:22:46 Saved as file BACKUP1.MAX
+Fri Feb 27 20:32:52 Saved as file BACKUP1.MAX
+Fri Feb 27 20:32:52 Routed 2 connections in 2 seconds.
+Fri Feb 27 20:32:52 Total is now 2 out of 44 (4%).
+Fri Feb 27 20:32:52 Saved as file SWEEP1.MAX
+Fri Feb 27 20:32:56 Saved as file BACKUP1.MAX
+Fri Feb 27 20:32:56 Routed 36 connections in 3 seconds.
+Fri Feb 27 20:32:56 Total is now 38 out of 44 (86%).
+Fri Feb 27 20:32:56 Saved as file SWEEP2.MAX
+Fri Feb 27 20:33:10 No new connections routed.
+Fri Feb 27 20:33:10 Total is now 38 out of 44 (86%).
+Fri Feb 27 20:33:10 Saved as file SWEEP3.MAX
+Fri Feb 27 20:33:16 Saved as file BACKUP1.MAX
+Fri Feb 27 20:33:29 No new connections routed.
+Fri Feb 27 20:33:29 Total is now 38 out of 44 (86%).
+Fri Feb 27 20:33:29 Saved as file SWEEP4.MAX
+Fri Feb 27 20:33:49 No new connections routed.
+Fri Feb 27 20:33:49 Total is now 38 out of 44 (86%).
+Fri Feb 27 20:33:49 Saved as file SWEEP5.MAX
+Fri Feb 27 20:42:34 Saved as file BACKUP1.MAX
+Fri Feb 27 20:42:34 Routed 3 connections in 2 seconds.
+Fri Feb 27 20:42:34 Total is now 3 out of 44 (6%).
+Fri Feb 27 20:42:34 Saved as file SWEEP1.MAX
+Fri Feb 27 20:42:37 Saved as file BACKUP1.MAX
+Fri Feb 27 20:42:37 Routed 36 connections in 3 seconds.
+Fri Feb 27 20:42:37 Total is now 39 out of 44 (88%).
+Fri Feb 27 20:42:37 Saved as file SWEEP2.MAX
+Fri Feb 27 20:42:49 No new connections routed.
+Fri Feb 27 20:42:49 Total is now 39 out of 44 (88%).
+Fri Feb 27 20:42:49 Saved as file SWEEP3.MAX
+Fri Feb 27 20:43:05 Routed 1 connections in 15 seconds.
+Fri Feb 27 20:43:05 Total is now 40 out of 44 (90%).
+Fri Feb 27 20:43:05 Saved as file SWEEP4.MAX
+Fri Feb 27 20:43:18 No new connections routed.
+Fri Feb 27 20:43:18 Total is now 40 out of 44 (90%).
+Fri Feb 27 20:43:18 Saved as file SWEEP5.MAX
+Fri Feb 27 20:43:46 Saved as file BACKUP1.MAX
+Fri Feb 27 20:54:16 Saved as file BACKUP1.MAX
+Sat Feb 28 07:15:14 Saved as file BACKUP1.MAX
+Sat Feb 28 10:32:44 Saved as file BACKUP1.MAX
+Sat Feb 28 10:43:11 Saved as file BACKUP1.MAX
+Sat Feb 28 10:53:41 Saved as file BACKUP1.MAX
+Sat Feb 28 11:04:11 Saved as file BACKUP1.MAX
+Sat Feb 28 11:14:11 Saved as file BACKUP1.MAX
+Sat Feb 28 11:24:41 Saved as file BACKUP1.MAX
+Sat Feb 28 11:35:11 Saved as file BACKUP1.MAX
+Sat Feb 28 11:45:11 Saved as file BACKUP1.MAX
+Sat Feb 28 11:55:41 Saved as file BACKUP1.MAX
+Sat Feb 28 12:06:11 Saved as file BACKUP1.MAX
+Sat Feb 28 12:16:41 Saved as file BACKUP1.MAX
+Sat Feb 28 12:27:11 Saved as file BACKUP1.MAX
+Sat Feb 28 12:37:11 Saved as file BACKUP1.MAX
+Sat Feb 28 19:38:02 Saved as file BACKUP1.MAX
+Mon Mar 02 20:56:06 Saved as file BACKUP1.MAX
+Mon Mar 02 20:56:06 Routed 3 connections in 2 seconds.
+Mon Mar 02 20:56:06 Total is now 3 out of 44 (6%).
+Mon Mar 02 20:56:06 Saved as file SWEEP1.MAX
+Mon Mar 02 20:56:10 Saved as file BACKUP1.MAX
+Mon Mar 02 20:56:10 Routed 30 connections in 3 seconds.
+Mon Mar 02 20:56:10 Total is now 33 out of 44 (75%).
+Mon Mar 02 20:56:10 Saved as file SWEEP2.MAX
+Mon Mar 02 20:56:35 No new connections routed.
+Mon Mar 02 20:56:35 Total is now 33 out of 44 (75%).
+Mon Mar 02 20:56:35 Saved as file SWEEP3.MAX
+Mon Mar 02 20:57:07 No new connections routed.
+Mon Mar 02 20:57:07 Total is now 33 out of 44 (75%).
+Mon Mar 02 20:57:07 Saved as file SWEEP4.MAX
+Mon Mar 02 20:57:36 Routed 2 connections in 29 seconds.
+Mon Mar 02 20:57:36 Total is now 35 out of 44 (79%).
+Mon Mar 02 20:57:36 Saved as file SWEEP5.MAX
+Mon Mar 02 21:03:56 Saved as file BACKUP1.MAX
+Mon Mar 02 21:11:56 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\BACKUP5.MAX
+Tue Mar 03 08:25:41 Saved as file BACKUP1.MAX
+Tue Mar 03 08:36:11 Saved as file BACKUP1.MAX
+Tue Mar 03 08:43:16 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\BACKUP5.MAX
+Tue Mar 03 09:23:56 Saved as file BACKUP1.MAX
+Tue Mar 03 09:26:17 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\BACKUP5.MAX
+Tue Mar 03 09:34:26 Saved as file BACKUP1.MAX
+Tue Mar 03 09:44:56 Saved as file BACKUP1.MAX
+Tue Mar 03 09:47:18 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\BACKUP5.MAX
+Tue Mar 03 09:47:19 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\BACKUP5.MAX
+Wed Mar 04 09:16:44 Saved as file BACKUP1.MAX
+Wed Mar 04 09:21:03 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\BACKUP5.MAX
+Wed Mar 04 09:22:07 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\BACKUP5.MAX
+Wed Mar 04 09:32:28 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\BACKUP5.MAX
+Wed Mar 04 09:34:41 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\BACKUP5.MAX
+Wed Mar 04 14:01:20 Saved as file G:\HOC TTDT1\BAITT\PROJECT DT2\BACKUP5.MAX
+Sat Mar 07 09:25:15 Saved as file BACKUP1.MAX
+Sat Mar 07 09:35:14 Saved as file BACKUP1.MAX
+Sat Mar 07 09:45:44 Saved as file BACKUP1.MAX
+Sat Mar 07 09:56:14 Saved as file BACKUP1.MAX
+Sat Mar 07 10:06:44 Saved as file BACKUP1.MAX
+Sat Mar 07 20:10:08 Saved as file BACKUP1.MAX
+Wed Mar 11 07:22:02 Saved as file BACKUP1.MAX
+Sat Mar 14 07:28:06 Saved as file BACKUP1.MAX
+Sat Mar 14 07:38:36 Saved as file BACKUP1.MAX
+Sat Mar 14 07:49:06 Saved as file BACKUP1.MAX
+Sat Mar 14 07:59:06 Saved as file BACKUP1.MAX
+Sat Mar 14 08:09:36 Saved as file BACKUP1.MAX
+Sat Mar 14 08:20:06 Saved as file BACKUP1.MAX
+Sat Mar 14 08:30:36 Saved as file BACKUP1.MAX
+Sat Mar 14 08:42:58 Saved as file BACKUP1.MAX
+Sat Mar 14 08:53:28 Saved as file BACKUP1.MAX
+Sat Mar 14 09:03:28 Saved as file BACKUP1.MAX
+Sat Mar 14 09:13:58 Saved as file BACKUP1.MAX
+Sat Mar 14 09:24:28 Saved as file BACKUP1.MAX
+Sat Mar 14 09:34:58 Saved as file BACKUP1.MAX
+Sat Mar 14 09:45:28 Saved as file BACKUP1.MAX
+Sat Mar 14 09:55:28 Saved as file BACKUP1.MAX
+Sat Mar 14 10:05:58 Saved as file BACKUP1.MAX
+Sat Mar 14 10:15:58 Saved as file BACKUP1.MAX
+Sat Mar 14 10:26:28 Saved as file BACKUP1.MAX
+Sat Mar 14 10:36:58 Saved as file BACKUP1.MAX
+Sat Mar 14 10:47:28 Saved as file BACKUP1.MAX
+Sat Mar 14 13:31:38 Saved as file BACKUP1.MAX
