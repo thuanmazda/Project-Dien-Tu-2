@@ -1,15 +1,23 @@
 # 📦 Project Thực tập Điện tử 2 (Project-Dien-Tu-2)
 
-> **Trường Đại học Bách Khoa - ĐHQG-HCM (HCMUT)**
+> **Trường Đại học Bách Khoa - ĐHQG-HCM (Ho Chi Minh University of Technology)**
 >
 > Khoa Điện - Điện tử
 >
 > Môn học: Thực tập Điện tử 2 (EE3021)
 
 ## 📝 Giới thiệu chung
-Dự án này được phát triển trong khuôn khổ môn học Thực tập Điện tử 2. 
+Dự án này được phát triển trong khuôn khổ môn học Thực tập Điện tử 2. Đây là Project cuối cùng của môn học, ngoài các mã nguồn thiết kế dưới đây, bạn cần thi công mạch in và hàn các phần cứng vào mạch để được ghi nhận quá trình và ghi nhận điểm Final cho học phần này.
 
-## 🛠 Phần cứng (Hardware)
+## Đề bài
+
+<p align="center">
+  <img src="Topic.jpg" width="100%">
+  <br>
+</p>
+
+
+## 🛠 Phần cứng có trong mạch
 * **IC tích hợp:**
   * LM555 (1)
   * 4518 (1)
@@ -23,22 +31,36 @@ Dự án này được phát triển trong khuôn khổ môn học Thực tập 
   * Điện trở 32k (1)
   * Tự điện 4.7uF (2)
   * Led 7 Đoạn Commom Cathode (1)
+* **Nguồn cấp:** Nguồn 5VDC từ máy cấp nguồn
 * **Phần mềm thiết kế mạch:** Altium Designer / OrCAD Family / Proteus.
 
-## 📁 Cấu trúc thư mụcPlaintextProject-Dien-Tu-2/
-├── Hardware/       # File thiết kế Schematic, PCB layout, Gerber
-├── Software/       # Mã nguồn chính (Source code) cho vi điều khiển
-├── Docs/           # Báo cáo PDF, slide thuyết trình, sơ đồ khối
-└── README.md
+## ⚡ Sơ đồ nguyên lý của mạch dựng trên Orcad Capture CIS
+
+<p align="center">
+  <img src="Image/Orcad Schematic.png" width="100%">
+  <br>
+</p>
+
+
+## 📂 Cấu trúc Thư mục
+
+```text
+📦 main
+ ┣ 📂 Image              # Thư viện hình ảnh
+ ┣ 📂 Orcad         # File thiết kế trong phần mềm Orcad Family 9.2
+ ┣ 📂 PCB PDF        # File PDF đường mạch đã xuất ra từ phần mềm
+ ┣ 📂 Proteus           # File thiết kế trong phần mềm Proteus
+ ┣ 📜 Topic.jpg       # File đề bài của thầy giao
+ ┗ 📜 README.md         # Tài liệu tổng quan dự án
+```
 ## 👥 Thành viên thực hiện
 STT | Họ và tên | MSSV | Vai trò
+--- | ---------- | ----- | ---------- |
+1 | Vũ Nhật Huy |	2311267 | Thiết kế PCB bằng Altium Designer
+2 | Nguyễn Minh Thuận |	2313355 | Thiết kế PCB bằng Orcad Family 9.2 và Proteus
 
-1| [Tên của bạn][MSSV]Lập trình phần mềm & Thiết kế mạch2[Tên thành viên 2][MSSV]Viết báo cáo & Test hệ thống
 
-## ⚙️ Cài đặt & Hướng dẫn sử dụng
-1. **Clone repository:**
-   ```bash
-   git clone [https://github.com/thuanmazda/Project-Dien-Tu-2.git](https://github.com/thuanmazda/Project-Dien-Tu-2.git)
+Giảng viên hướng dẫn: ThS. Nguyễn Phạm Minh Luân - Bộ môn Điện tử.
 
 
 
