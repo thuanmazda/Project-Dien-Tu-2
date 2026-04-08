@@ -5,6 +5,10 @@
 > Khoa Điện - Điện tử
 >
 > Môn học: Thực tập Điện tử 2 (EE3021)
+>
+> Nhóm: 5 - 8
+>
+> Lớp: L09
 
 ## 📝 Giới thiệu chung
 Dự án này được phát triển trong khuôn khổ môn học Thực tập Điện tử 2. Đây là Project cuối cùng của môn học, ngoài các mã nguồn thiết kế dưới đây, bạn cần thi công mạch in và hàn các phần cứng vào mạch để được ghi nhận quá trình và ghi nhận điểm Final cho học phần này.
